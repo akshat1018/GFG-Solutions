@@ -28,8 +28,8 @@ class Solution{
 int main()
 {
     int t,n;
-    cin>>t; //Input testcases
-    while(t--) //While testcases exist
+    cin>>t; 
+    while(t--) 
     {
         cin>>n; //input size of array
         vector<int> a(n); //declare vector of size n
